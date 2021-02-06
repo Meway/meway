@@ -41,6 +41,12 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Social
 title:              Bootstrap
